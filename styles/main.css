@@ -1,0 +1,13 @@
+.text-header {
+    text-align: center;
+    background-color: aqua;
+}
+
+.contenedor-doble{
+    display: flex;
+}
+
+.imagen-perfil{
+height: 100px;
+width: 100px;
+}
