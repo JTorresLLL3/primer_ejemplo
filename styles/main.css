@@ -11,3 +11,10 @@
 height: 100px;
 width: 100px;
 }
+
+.contenedor{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px;
+}
